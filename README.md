@@ -1,4 +1,2 @@
-# ME366J
-C++ Arduino Code for Mechanical Engineering Senior Design Project
-
-By Daniel Smarda
+# Jay
+Collaborative Robotics Project with peer student Matthew McDermott
